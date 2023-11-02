@@ -1,0 +1,58 @@
+#form {
+    display: flex;
+    flex-direction: column;
+}
+
+#form-container {
+    display: flex;
+    flex-direction: column;
+    align-items:normal;
+    border-radius:8px;
+    padding: 20px;
+    background-color: rgb(151, 194, 236) ;
+}
+
+#card {
+    background-color: rgb(221, 221, 233);
+    display: flex;
+    flex-direction: column;
+    align-items:normal;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #b1b2b9;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+#error {
+    color: red;
+
+}
+label {
+    display: flex;
+    margin: 2px;
+}
+
+input {
+    border-radius:4px;
+    display: flex;
+    margin: 2px;
+}
+
+h3 {
+    color: rgb(2, 31, 31);
+    display: flex;
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+    display: flex;
+    align-self: center;
+    border-radius: 8px;
+    border-color: #70717c;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+}
