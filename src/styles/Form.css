@@ -7,6 +7,8 @@
     display: flex;
     flex-direction: column;
     align-items:normal;
+    border-style: solid;
+    border-color: rgb(221, 221, 233);
     border-radius:8px;
     padding: 20px;
     background-color: rgb(151, 194, 236) ;
@@ -19,7 +21,7 @@
     align-items:normal;
     border-radius: 8px;
     border-style: solid;
-    border-color: #b1b2b9;
+    border-color: rgb(151, 194, 236);
     padding: 20px;
     margin-top: 50px;
 }
